@@ -1,3 +1,3 @@
-Initial commit
+Initial commit.
 
-Change made in feature/add-testing
+Updated readme in feature/add-testing-squash
